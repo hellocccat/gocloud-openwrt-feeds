@@ -1,0 +1,329 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "Client"
+msgstr "客户端"
+
+msgid "Server"
+msgstr "服务器"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Disable"
+msgstr "停用"
+
+msgid "ShadowsocksR Client"
+msgstr "ShadowsocksR 客户端"
+
+msgid "Servers Setting"
+msgstr "服务器配置"
+
+msgid "Edit - Remote Server"
+msgstr "编辑 - 远程服务器"
+
+msgid "SSR URL"
+msgstr "SSR 网址"
+
+msgid "Import URL"
+msgstr "导入网址"
+
+msgid "Export URL"
+msgstr "导出网址"
+
+msgid "Import SSR URL successfully."
+msgstr "成功导入 SSR 网址。"
+
+msgid "Invalid SSR URL format."
+msgstr "无效的 SSR 网址格式。"
+
+msgid "User cancelled."
+msgstr "用户已取消。"
+
+msgid "Paste SSR URL here"
+msgstr "在此处粘贴 ssr:// 网址"
+
+msgid "Unable to copy SSR URL to clipboard."
+msgstr "无法复制 SSR 网址到剪贴板。"
+
+msgid "Copy SSR URL to clipboard successfully."
+msgstr "成功复制 SSR 网址到剪贴板。"
+
+msgid "Alias (optional)"
+msgstr "别名（可选）"
+
+msgid "Onetime Authentication"
+msgstr "一次验证"
+
+msgid "Auto Switch"
+msgstr "自动切换"
+
+msgid "Server Address"
+msgstr "服务器地址"
+
+msgid "Server Port"
+msgstr "服务器端口"
+
+msgid "Local Port"
+msgstr "本地端口"
+
+msgid "Weight"
+msgstr "负载均衡权重"
+
+msgid "Connection Timeout"
+msgstr "连接超时"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Encrypt Method"
+msgstr "加密方式"
+
+msgid "Protocol"
+msgstr "传输协议"
+
+msgid "Protocol Param (optional)"
+msgstr "协议参数（可选）"
+
+msgid "Obfs"
+msgstr "混淆插件"
+
+msgid "Obfs Param (optional)"
+msgstr "混淆参数（可选）"
+
+msgid "TCP Fast Open"
+msgstr "TCP 快速打开"
+
+msgid "Enable KcpTun"
+msgstr "启用 KcpTun"
+
+msgid "KcpTun Port"
+msgstr "KcpTun 端口"
+
+msgid "KcpTun Param"
+msgstr "KcpTun 参数"
+
+msgid "KcpTun Password"
+msgstr "KcpTun 密码"
+
+msgid "Global Setting"
+msgstr "全局设置"
+
+msgid "Load Balancing"
+msgstr "负载均衡"
+
+msgid "UDP Relay Server"
+msgstr "UDP 中继服务器"
+
+msgid "Same as Global Server"
+msgstr "同全局服务器"
+
+msgid "Enable Process Monitor"
+msgstr "启用进程监控"
+
+msgid "Enable Auto Switch"
+msgstr "启用自动切换"
+
+msgid "Switch check interval (second)"
+msgstr "自动切换检查周期（秒）"
+
+msgid "Check timout (second)"
+msgstr "切换检查超时时间（秒）"
+
+msgid "Enable Tunnel (DNS)"
+msgstr "启用隧道（DNS）转发"
+
+msgid "Tunnel Port"
+msgstr "隧道（DNS）本地端口"
+
+msgid "Operating mode"
+msgstr "运行模式"
+
+msgid "IP Route Mode"
+msgstr "IP 路由模式"
+
+msgid "GFW List Mode"
+msgstr "GFW 列表模式"
+
+msgid "Optional GFW domains"
+msgstr "额外 GFW 域名"
+
+msgid "DNS Mode"
+msgstr "DNS 解析方式"
+
+msgid "Use DNS Tunnel"
+msgstr "使用 DNS 隧道"
+
+msgid "Use pdnsd"
+msgstr "使用 pdnsd"
+
+msgid "DNS Server IP and Port"
+msgstr "DNS 服务器地址和端口"
+
+msgid "Server Subscription"
+msgstr "服务器订阅"
+
+msgid "Auto Update"
+msgstr "自动更新"
+
+msgid "Update Time (every day)"
+msgstr "更新时间（每天）"
+
+msgid "Subscription URL"
+msgstr "订阅地址"
+
+msgid "Subscription Status"
+msgstr "订阅状态"
+
+msgid "Update Subscription"
+msgstr "更新订阅"
+
+msgid "SOCKS5 Proxy"
+msgstr "SOCKS5 代理"
+
+msgid "Access Control"
+msgstr "访问控制"
+
+msgid "Interfaces - WAN"
+msgstr "接口 - WAN"
+
+msgid "Bypassed IP List"
+msgstr "被忽略 IP 列表"
+
+msgid "NULL - As Global Proxy"
+msgstr "留空 - 作为全局代理"
+
+msgid "Bypassed IP"
+msgstr "额外被忽略 IP"
+
+msgid "Forwarded IP"
+msgstr "强制走代理 IP"
+
+msgid "Interfaces - LAN"
+msgstr "接口 - LAN"
+
+msgid "Router Proxy"
+msgstr "路由器访问控制"
+
+msgid "Normal Proxy"
+msgstr "正常代理"
+
+msgid "Bypassed Proxy"
+msgstr "不走代理"
+
+msgid "Forwarded Proxy"
+msgstr "强制走代理"
+
+msgid "LAN Access Control"
+msgstr "内网访问控制"
+
+msgid "Allow listed only"
+msgstr "仅允许列表内"
+
+msgid "Allow all except listed"
+msgstr "仅允许列表外"
+
+msgid "LAN Host List"
+msgstr "内网主机列表"
+
+msgid "ShadowsocksR Server"
+msgstr "ShadowsocksR 服务器"
+
+msgid "Edit - Local Server"
+msgstr "编辑 - 本地服务器"
+
+msgid "Running"
+msgstr "运行中"
+
+msgid "Not Running"
+msgstr "未运行"
+
+msgid "Updated at"
+msgstr "更新于"
+
+msgid "Running Status"
+msgstr "运行状态"
+
+msgid "Global Client"
+msgstr "SSR 客户端"
+
+msgid "Global Server"
+msgstr "SSR 服务端"
+
+msgid "UDP Relay"
+msgstr "UDP 中继"
+
+msgid "DNS Tunnel"
+msgstr "DNS 隧道"
+
+msgid "pdnsd Server"
+msgstr "pdnsd 服务器"
+
+msgid "haproxy Server"
+msgstr "haproxy 服务器"
+
+msgid "KcpTun Client"
+msgstr "KcpTun 客户端"
+
+msgid "Enable GFW mode"
+msgstr "启用 GFW 模式"
+
+msgid "Google Connectivity"
+msgstr "【谷歌】连通性检查"
+
+msgid "Baidu Connectivity"
+msgstr "【百度】连通性检查"
+
+msgid "No Check"
+msgstr "未检查"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Connect OK"
+msgstr "连接正常"
+
+msgid "Connect Error"
+msgstr "连接错误"
+
+msgid "Check..."
+msgstr "正在检查.."
+
+msgid "GFW List Data"
+msgstr "【GFW列表】数据库"
+
+msgid "China IP Data"
+msgstr "【国内IP段】数据库"
+
+msgid "Records"
+msgstr "条记录"
+
+msgid "Refresh Data"
+msgstr "更新数据库"
+
+msgid "Refresh..."
+msgstr "正在更新，请稍候.."
+
+msgid "Refresh Success!"
+msgstr "更新成功！"
+
+msgid "Refresh Error!"
+msgstr "更新失败！"
+
+msgid "Already up to date!"
+msgstr "你已经是最新数据，无需更新！"
+
+msgid "Total Records:"
+msgstr "新的总纪录数："
+
+msgid "Check Server Port"
+msgstr "【服务器端口】检查"
+
+msgid "Check Connectivity"
+msgstr "检查连通性"
+
+msgid "Check Server"
+msgstr "检查服务器"

@@ -1,0 +1,9 @@
+<%+header%>
+<div class="cbi-map">
+        <h2 name="content"><%=translate("终端")%></h2>
+        <iframe id="terminal" frameborder="0" style="width: 100%; height: 85vh; overflow: hidden;"></iframe>
+</div>
+<script type="text/javascript">
+        document.getElementById("terminal").src = window.location.protocol + "//" + window.location.hostname + ":7681";
+</script>
+<%+footer%>
